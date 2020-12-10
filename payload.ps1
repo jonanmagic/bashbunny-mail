@@ -1,6 +1,6 @@
 $Outlook = New-Object -ComObject Outlook.Application
 $Mail = $Outlook.CreateItem(0)
-$Mail.To = "test@test.com"
+$Mail.To = "test@testmail.com"
 $Mail.Subject = "Your Subject"
 $Mail.Body = "Your body"
 $Mail.Send()
