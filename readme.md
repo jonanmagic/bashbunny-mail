@@ -1,6 +1,6 @@
 # QuickCreds for Bash Bunnys
 
-Author: Jon Ander
+Author: jonanmagic
 Version: Version 1.0
 Credit: AM
 
