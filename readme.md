@@ -1,4 +1,4 @@
-# QuickCreds for Bash Bunnys
+# OutlookHacking for Bash Bunnys
 
 Author: jonanmagic
 Version: Version 1.0
