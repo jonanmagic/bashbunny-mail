@@ -1,4 +1,4 @@
-# OutlookHacking for Bash Bunnys
+# OutlookHacking for Bash Bunny
 
 Author: jonanmagic
 Version: Version 1.0
